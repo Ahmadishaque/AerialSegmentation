@@ -128,7 +128,7 @@ ImageID,EncodedPixels
 **Ahmad Ishaque Karimi**  
 Graduate Student — Data Science & Computer Vision Research  
 📧 ahmadishaquekarimi@gmail.com  
-🔗 [LinkedIn][https://www.linkedin.com/in/Ahmadishaque]
+🔗 [LinkedIn][[https://www.linkedin.com/in/Ahmadishaque](https://www.linkedin.com/in/ahmadishaquekarimi/)]
 
 ---
 
