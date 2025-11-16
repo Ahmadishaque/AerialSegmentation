@@ -133,4 +133,3 @@ Graduate Student — Data Science & Computer Vision Research
 ---
 
 > “The power of aerial vision lies not in seeing from above, but in understanding the world below.”
-```
